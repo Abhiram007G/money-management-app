@@ -1,0 +1,42 @@
+/* Write your CSS here */
+
+.balances-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 15px;
+  width: 300px;
+}
+
+.balance-colour {
+  border: 1px solid #84cc16;
+  background-color: #ecfccb;
+  border-radius: 20px;
+}
+
+.income-colour {
+  border: 1px solid #06b6d4;
+  background-color: #cffafe;
+  border-radius: 20px;
+}
+
+.expenses-colour {
+  border: 1px solid #7c3aed;
+  background-color: #ede9fe;
+  border-radius: 20px;
+}
+
+.your-heading {
+  font-size: 14px;
+  color: #7e858e;
+}
+
+.amount-element {
+  font-size: 22px;
+}
+
+.icon {
+  width: 60px;
+  height: 60px;
+}

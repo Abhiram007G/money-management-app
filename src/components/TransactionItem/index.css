@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.delete-icon {
+  border: none;
+  background-color: transparent;
+  margin: 0px;
+}
+
+.delete-image {
+  width: 25px;
+}
+.transaction-item-title {
+  margin: 0px;
+  width: 100px;
+}
